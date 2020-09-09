@@ -4,7 +4,7 @@
  * @Author: 白金鑫
  * @Date: 2020-09-09 19:32:42
  * @LastEditors: 白金鑫
- * @LastEditTime: 2020-09-09 20:07:39
+ * @LastEditTime: 2020-09-09 20:29:37
 -->
 <template>
   <div class="home">
@@ -14,7 +14,7 @@
 </template>
 
 <script>
-// @ is an alias to /src
+
 import Sanjizhujian from '../components/Sanjizhujian'
 
 export default {
